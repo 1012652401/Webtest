@@ -1,0 +1,4 @@
+[32m2019-02-25 05:07:19 INFO MainProcess MainThread logger.py info [line:104] : open url https://pan.baidu.com/ success ![0m
+[32m2019-02-25 05:07:19 INFO MainProcess MainThread logger.py info [line:104] : <--------------- start login --------------->[0m
+[31m2019-02-25 05:07:19 INFO MainProcess MainThread logger.py error [line:108] : No method named : action_click found ![0m
+[32m2019-02-25 05:07:19 INFO MainProcess MainThread logger.py info [line:104] : login_click //*[@id="TANGRAM__PSP_4__footerULoginBtn"] click None[0m

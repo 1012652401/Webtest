@@ -1,0 +1,6 @@
+[32m2019-02-25 04:35:54 INFO MainProcess MainThread logger.py info [Line:104]:open url https://pan.baidu.com/ success ![0m
+[32m2019-02-25 04:35:54 INFO MainProcess MainThread logger.py info [Line:104]:start login[0m
+[32m2019-02-25 04:35:54 INFO MainProcess MainThread logger.py info [Line:104]:login_click //*[@id="TANGRAM__PSP_4__footerULoginBtn"] click None[0m
+[32m2019-02-25 04:35:54 INFO MainProcess MainThread logger.py info [Line:104]:login_name //*[@id="TANGRAM__PSP_4__userName"] input 18700808026[0m
+[32m2019-02-25 04:35:54 INFO MainProcess MainThread logger.py info [Line:104]:login_pwd //*[@id="TANGRAM__PSP_4__password"] input k56312007[0m
+[32m2019-02-25 04:35:54 INFO MainProcess MainThread logger.py info [Line:104]:login_btn //*[@id="TANGRAM__PSP_4__submit"] click None[0m
